@@ -1,6 +1,6 @@
 ---
 name: git-batch-downloader
-description: Batch Git repository downloader for downloading all projects from a Git organization/group to a local directory. Use when user asks to: (1) Download all projects from a Git organization/group, (2) Batch clone multiple Git repositories, (3) Download GitLab/GitHub group projects including subgroups, (4) Clone all repos from a Git URL, (5) Update existing local repositories with latest changes. Examples: "Help me download all projects from https://gitlab.example.com/my-group", "Clone all projects from this GitLab group to d:/projects", "Update all projects in d:/projects".
+description: "Batch Git repository downloader for downloading all projects from a Git organization/group to a local directory. Use when user asks to: (1) Download all projects from a Git organization/group, (2) Batch clone multiple Git repositories, (3) Download GitLab/GitHub group projects including subgroups, (4) Clone all repos from a Git URL, (5) Update existing local repositories with latest changes. Examples: Help me download all projects from https://gitlab.example.com/my-group, Clone all projects from this GitLab group to d:/projects, Update all projects in d:/projects."
 ---
 
 # Git Batch Downloader
